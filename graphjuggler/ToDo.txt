@@ -1,0 +1,12 @@
+Translation to English
+Schlaufen,
+Morphismen anzeigen,
+Abgeschlossenheit besser anzeigen,
+Skalierung bei "Export To LaTeX",
+Bessere Algorithmen,
+gerichtete Graphen speichern
+Threads
+Command-Line-Tests
+1 Pixel-Edge-Fehler finden
+Infos:
+Color-Nr (Show Colors)
