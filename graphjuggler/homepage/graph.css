@@ -1,0 +1,33 @@
+h3 {
+  font-size:32pt; 
+  font-style:normal;
+  font-weight:500; 
+  line-height:34pt; 
+  color: #000000;
+}
+h2 {
+  font-size:18pt;
+  font-style:normal;
+  font-weight:500; 
+  line-height:26pt; 
+  color: #000000;
+} 
+li {
+  font-size:10pt; 
+  color: #000000;
+}
+p {
+  color:#000000;
+}
+.small { 
+  font-size:8pt;
+}
+body {
+  background-color: #fff8db;
+}
+body a:link {
+   color: #0000ee;
+}
+body a:visited	{
+   color: #0000ee;
+}
