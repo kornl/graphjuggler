@@ -1,17 +1,50 @@
-Nothing here...
+Welcome!
+
+The goal of the project Graph Morphism Juggler is to develop a
+full-featured tool to assist research in algebraic graph theory.
+
+The current version already features an intuitive graphical user
+interface and rudimentary methods to calculate graph endomorphisms,
+factor graphs and products of graphs as well as a TeX export function.
+
+Plans for future versions include features like enhanced endomorphism
+sorting, representation/categorization, green's relations, epi/mono
+factorization functions with calculations of epimorphism distortion
+spectra, graph congruence (semi-)lattices, visualized N- and
+polyhedral Hom-complexes as well as analysis tools for topological
+properties.
+
+You find our project page here: 
+ 
+  http://sourceforge.net/projects/graphjuggler/
+
+
+License: GNU General Public License (GPL)
 
 
 
+- How to compile?
+
+javac *.java
+
+- How to start?
+
+java Start
+
+
+
+
+Version Overview:
 
 Version 0.1 (non public)
 -----------
 First-Release
 
-Version 0.2 (non public)
------------
-Print option
+Version 0.2 (non public) 
+----------- 
+Print option 
 Export to LaTeX
-Factor graph
-Force based algorithm for arrangement
-View and print options
+Factor graph 
+Force based algorithm for arrangement 
+View and print options 
 Names for vertices
