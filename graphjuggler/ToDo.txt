@@ -1,6 +1,7 @@
 Translation to English
 Schlaufen,
 Morphismen anzeigen,
+Button-Image-Bug,
 Abgeschlossenheit besser anzeigen,
 Skalierung bei "Export To LaTeX",
 Bessere Algorithmen,
